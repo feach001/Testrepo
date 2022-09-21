@@ -1,5 +1,5 @@
 import time
-#Tschöö
+#Tschüsseldorf
 for i in range(1000):
     print("Hallo");
     time.sleep(1);
